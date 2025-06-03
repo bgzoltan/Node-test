@@ -1,0 +1,38 @@
+{
+    "items": [
+      {
+        "id":"00001",
+        "name": "Kevin Smith",
+        "age": 35,
+        "accounts": [
+          {
+            "name":"savings",
+            "accountNo": "1111-1111-1111-1111",
+            "amount": 1000
+          },
+          {
+            "name":"business",
+            "accountNo": "2222-2222-2222-2221",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "id":"00002",
+        "name": "John Maligen",
+        "age": 43,
+        "accounts": [
+          {
+            "name":"savings",
+            "accountNo": "1111-1111-1111-1112",
+            "amount": 4000
+          },
+          {
+            "name":"business",
+            "accountNo": "2222-2222-2222-2222",
+            "amount": 3000
+          }
+        ]
+      }
+    ]
+  }
